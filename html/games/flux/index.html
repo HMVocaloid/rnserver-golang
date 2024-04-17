@@ -1,0 +1,223 @@
+
+<!doctype html public "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<object id="racV1Control" width="0" height="0" classid="CLSID:A5DC33CE-214B-4c26-8596-8A45456C9EB8"></object>
+<object id="racV2ConfigureMgr" width="0" height="0" classid="CLSID:946121C2-11F1-49DD-A7E3-CF793DE827A4"></object>
+<script language = "JavaScript">
+var nRNGCVersion = "";
+var sRNGCDistCode = "";
+var nRNGCInstalled = 0;
+var nRNGC20Installed = 0;
+var nRNGC20Version = "";
+var sRNGC20Tps = "";
+doDetectionAndRedirect();
+function dbgout( str )
+{
+}
+function createMozillaPlugin( name, mime )
+{
+dbgout( "" );
+dbgout( "<b>----- creating plugin:</b> " + name );
+// create embed tag for plugin
+var embedNode = document.createElement('EMBED');
+document.body.appendChild(embedNode);
+embedNode.setAttribute( 'name', name );
+embedNode.setAttribute( 'id', name );
+embedNode.setAttribute( 'type', mime );
+// set reference to plugin
+var npracplug = document.getElementById( name );
+//var npracplug = document.dcplug;
+// force the browser to 'parse' the plugin
+// this is to make firefox load the object
+var str='';
+for (o in npracplug)
+{
+str = npracplug[o];
+//dbgout(o + " = " + str);
+}
+dbgout( "<b>----- done creating plugin:</b> " + name );
+dbgout( "" );
+return npracplug;
+}
+function createArcadeVersionControl()
+{
+var control;
+var undefined;
+try
+{
+control = new ActiveXObject('RNGCIECtl.RNGCIECtl.1');
+nRNGCInstalled = 1;
+}
+catch ( e )
+{
+dbgout( "<b>Exception creating arcadeVersionControl:</b> " + e );
+}
+return control;
+}
+function detectOldRac()
+{
+var undefined;
+var arcadeVersionControl = createArcadeVersionControl();
+if ( undefined == arcadeVersionControl )
+{
+dbgout( "nRNGCInstalled=" + nRNGCInstalled );
+dbgout( "nRNGCVersion=" + ((nRNGCVersion == undefined) ? 0 : nRNGCVersion) );
+return;
+}
+dbgout( "nRNGCInstalled=" + nRNGCInstalled );
+try
+{
+nRNGCVersion = arcadeVersionControl.RealArcadeVersion;
+sRNGCDistCode = arcadeVersionControl.RealArcadeDistCode;
+}
+catch ( e )
+{
+dbgout( "<b>Exception accessing arcadeVersionControl:</b> " + e );
+}
+dbgout( "nRNGCVersion=" + nRNGCVersion );
+dbgout( "sRNGCDistCode=" + sRNGCDistCode );
+}
+function createArcade20VersionControl()
+{
+var control;
+try
+{
+control = new ActiveXObject('RAComponents.RAConfigureMgr');
+nRNGC20Installed = 1;
+}
+catch ( e )
+{
+dbgout( "<b>Exception creating arcade20VersionControl:</b> " + e );
+}
+return control;
+}
+function detectNewRac()
+{
+var undefined;
+var arcade20VersionControl = createArcade20VersionControl();
+if ( undefined == arcade20VersionControl )
+{
+dbgout( "nRNGC20Installed=" + nRNGC20Installed );
+return;
+}
+dbgout( "nRNGC20Installed=" + nRNGC20Installed );
+try
+{
+nRNGC20Version = arcade20VersionControl.get_version();
+sRNGC20Tps = arcade20VersionControl.item( 'Tps' );
+}
+catch ( e )
+{
+dbgout( "<b>Exception accessing arcade20VersionControl:</b> " + e );
+}
+dbgout( "nRNGC20Version=" + nRNGC20Version );
+dbgout( "sRNGC20Tps=" + sRNGC20Tps );
+}
+function isRacInstalled()
+{
+var undefined;
+// is old client installed?
+dbgout( "<b>ArcadeInstalled:</b> just testing oldclient installed for oldclient tps." );
+return( nRNGCInstalled ? 1 : 0 );
+}
+function getRacVersion()
+{
+var undef;
+if ( nRNGC20Installed ) {
+setCookie( "games.racInstalled", "1", 1 );
+return ((nRNGC20Version != undef) ? nRNGC20Version : 0);
+}
+else {
+return ((nRNGCVersion != undef) ? nRNGCVersion : 0);
+}
+}
+function getRacDistCode()
+{
+var undef;
+return ((sRNGCDistCode != undef) ? sRNGCDistCode : "");
+}
+function setCookie(cookieName,cookieValue,nDays)
+{
+var expire = new Date();
+expire.setTime(expire.getTime() + 3600000*24*nDays);
+document.cookie = cookieName+"="+escape(cookieValue) + ";path=/;expires="+expire.toGMTString();
+}
+function getCookie(cookieName)
+{
+var theCookie=""+document.cookie;
+if ( theCookie=="") return "";
+var ind=theCookie.indexOf(cookieName);
+if (ind==-1 || cookieName=="") return "";
+var ind1=theCookie.indexOf(';',ind);
+if (ind1==-1) ind1=theCookie.length;
+var ind2=theCookie.indexOf("=",ind);
+if( ind2==-1 || ind2 > ind1 ) return "";
+return unescape(theCookie.substring(ind+cookieName.length+1,ind1));
+}
+function cookiesAreEnabled()
+{
+var expire = new Date();
+expire.setTime(expire.getTime() + 10000);
+document.cookie = "xxx=foo" + ";expires="+expire.toGMTString();
+var value = getCookie("xxx");
+return ( "foo" == value );
+}
+function doDetectionAndRedirect()
+{
+dbgout( "<table border=1><tr><td>" );
+dbgout( "Browser Name = Other" );
+dbgout( "Browser Version = 0.0" );
+if( cookiesAreEnabled() ){
+dbgout( "Cookies = Enabled" );
+}
+else{
+dbgout( "Cookies = Disabled" );
+}
+dbgout( "tpsIN=" );
+dbgout( "racTypeIN=oldclient" );
+dbgout( "distCodeIN=null" );
+dbgout( "<tr><td><h1>Detect V1</h1>" );
+dbgout( "<tr><td>" );
+detectOldRac();
+dbgout( "<tr><td><h1>Detect V2</h1>" );
+dbgout( "<tr><td>" );
+detectNewRac();
+dbgout( "<tr><td>" );
+var racInstalled = isRacInstalled();
+var racVersion = getRacVersion();
+var racDistCode = getRacDistCode();
+dbgout( "----------------------------" );
+dbgout( "racInstalled=" + racInstalled );
+dbgout( "(old)racVersion=" + racVersion );
+dbgout( "(old)racDistCode=" + racDistCode );
+dbgout( "New Url: http://www.realarcade.com/game.php?src=&gameid=950258D1-7ABD-4afc-8886-449B98CE8224&mode=spnav" );
+dbgout( "</table>" );
+setCookie( "games.racInstalled", racInstalled, 1 );
+setCookie( "games.racVersion", racVersion, 1 );
+setCookie( "games.racDistCode", racDistCode, 1 );
+setCookie( "games.racTps", sRNGC20Tps, 1 );
+setCookie( "games.ce", 1, 1 );
+if( cookiesAreEnabled() )
+{
+document.location="http://www.realarcade.com/game.php?src=&gameid=950258D1-7ABD-4afc-8886-449B98CE8224&mode=spnav";
+}
+else
+{
+document.location="http://www.realarcade.com/game.php?src=&gameid=950258D1-7ABD-4afc-8886-449B98CE8224&mode=spnav&rdo=true"
++ "&arcadeinstalled=" + racInstalled
++ "&racver=" + racVersion
++ "&racdist=" + racDistCode;
+}
+return true;
+}
+</script>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="verify-v1" content="bh5UTuWTt2gFFg64KoTMVG1m2Rev5jBhQIZmf7azbe0=" />
+<META name="y_key" content="8ccf7bdb24b75168" />
+<meta http-equiv="REFRESH" content="1; URL=http://www.realarcade.com/game.php?src=&gameid=950258D1-7ABD-4afc-8886-449B98CE8224&mode=spnav&rdo=true" />
+<title>RealArcade</title>
+</head>
+<body>
+</body>
+</html>

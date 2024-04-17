@@ -1,0 +1,175 @@
+<html>
+
+
+<head>
+
+<LINK REL=STYLESHEET TYPE="text/css" HREF="/css/netscape.css">
+
+<script language="Javascript">
+function bringTop() {
+focus();
+}
+
+function startTop() {
+jumptime = setTimeout("bringTop()",4000);
+} 
+</script>
+
+<script language="Javascript">
+
+
+function ups(){
+window.open('http://www.real.com/R/RC.05072002-ig-half.ups.img..R/realguide.real.com/games/?s=game_download&sub=collapse');
+focus();
+
+
+}
+
+</script>
+
+</head>
+<body bgcolor="#CCECFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="startTop();">
+<table cellpadding=0 cellspacing=0 border=0>
+<tr>
+<td colspan=5><img src=../pics/clear.gif width=1 height=20></td>
+</tr>
+<tr>
+<td rowspan=2 width=55 nowrap><img src=../pics/clear.gif width=55 height=1></td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<td width=200 background="../pics/Basketball200_150.jpg" nowrap>
+		<img src=../pics/foreground200x150.gif width=200 height=150></td>
+	<td width=10 nowrap><img src=../pics/clear.gif width=10 height=1></td>
+	<td width=410 valign=top nowrap class=black>
+		<font class=b>Half Court Challenge</font><br>The pressure is on, you're approaching for the slam dunk, can you make it?  
+		Sure you can just sink it for a measly three pointer, but why not get the extra points for doing it with style?<br><br>
+		
+		
+			<font class=b>Cannot play online - missing Shockwave plugin</font>
+		<br>
+	</td>
+	<td rowspan=2 width=55 nowrap><img src=../pics/clear.gif width=55 height=1></td>
+</tr>
+<tr>
+	<td colspan=3 width=620 nowrap class=black><br><p><font class=b>Directions</font><br>
+	<font class=black>Use the arrow keys to  move around and the spacebar to shoot.  To get really fancy with your dunks, use 
+	different 	arrow key combinations and score even more points!  Complete instructions are included in the game.</font>
+
+
+
+
+
+
+
+
+</td>
+</tr>
+</table>
+
+</body>
+</html>
+
+

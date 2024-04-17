@@ -1,0 +1,183 @@
+<html>
+
+
+<head>
+
+<LINK REL=STYLESHEET TYPE="text/css" HREF="/css/netscape.css">
+
+<script language="Javascript">
+function bringTop() {
+focus();
+}
+
+function startTop() {
+jumptime = setTimeout("bringTop()",4000);
+} 
+</script>
+
+<script language="Javascript">
+
+
+function ups(){
+window.open('http://www.real.com/R/RC.05072002-sk-qbee.ups.img..R/realguide.real.com/games/?s=game_download&sub=qbeez');
+focus();
+
+
+}
+
+</script>
+
+</head>
+<body bgcolor="#CCECFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="startTop();">
+<table cellpadding=0 cellspacing=0 border=0>
+<tr>
+<td colspan=5><img src=../pics/clear.gif width=1 height=20></td>
+</tr>
+<tr>
+<td rowspan=2 width=55 nowrap><img src=../pics/clear.gif width=55 height=1></td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<td width=200 background=../pics/qbeez_200x150.gif nowrap>
+<img src=../pics/foreground200x150.gif width=200 height=150></td>
+<td width=10 nowrap><img src=../pics/clear.gif width=10 height=1></td>
+<td width=410 valign=top nowrap class=black><font class=b>QBeez by Skunkworks Games</font><br>Score as many points as you can by clearing the board of QBeez, in adjacent sets of two or more.<br><span class=t5>&nbsp;<br></span><a href="http://www.skunkworksgames.com/qbeez/real/index.html" target="gameframe" class=b>Play Now!</a><br><font class=s>Load Time: 37 seconds on 56K modem</font><br><span class=t5>&nbsp;<br></span><a href="http://realguide.real.com/games/?s=game_download&sub=qbeez&src=web_game" target="_new" class=b>Play the downloadable version</a><br><font class=s>- Play offline with better sound and graphics<br>
+- Play all levels and options, including full screen mode<br>
+- Same great gameplay and no ads</font><br>
+</td>
+<td rowspan=2 width=55 nowrap><img src=../pics/clear.gif width=55 height=1></td>
+</tr>
+<tr>
+<td colspan=3 width=620 nowrap class=black><br><p><font class=b>How to play</font><br>
+Remove adjacent sets of QBeez by clicking on the group you want to remove. A "set" consists of two or more identical QBeez. The larger the set, the higher your score.  Don't click on single QBeez -- they can't be removed and you'll only lose points!<br><br><font class=b>Mix & Rotate</font><br>
+Click on the funny-looking icons beneath the board to either mix or rotate the position of the QBeez. You get three special moves per level, so use them wisely! The more QBeez to a set, the higher your score. Clear the entire board -- and get a surprise QBeez bonus animation. Then check out how you did in the world scores rankings! QBeez together!<br><br>
+<font class=b>Tips</font><br>Eliminate all but one or two colors first. Then you can score big by eliminating all QBeez of a color in a single click. Try not to remove all but a single QBeez for a given color. If there is just one left you cannot clear the board and score the big bonus points!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</td>
+</tr>
+</table>
+
+</body>
+</html>
+
+

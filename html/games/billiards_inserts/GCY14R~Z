@@ -1,0 +1,172 @@
+<html>
+
+
+<head>
+
+<LINK REL=STYLESHEET TYPE="text/css" HREF="/css/netscape.css">
+
+<script language="Javascript">
+function bringTop() {
+focus();
+}
+
+function startTop() {
+jumptime = setTimeout("bringTop()",4000);
+} 
+</script>
+
+<script language="Javascript">
+
+
+function ups(){
+window.open('http://www.real.com/R/RC.05072002-jx-flea.ups.img..R/realguide.real.com/games/?s=game_download&sub=collapse');
+focus();
+
+
+}
+
+</script>
+
+</head>
+<body bgcolor="#CCECFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="startTop();">
+<table cellpadding=0 cellspacing=0 border=0>
+<tr>
+<td colspan=5><img src=../pics/clear.gif width=1 height=20></td>
+</tr>
+<tr>
+<td rowspan=2 width=55 nowrap><img src=../pics/clear.gif width=55 height=1></td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- elmer interactive begins here -->
+
+
+
+<!-- elmer interactive ends here -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<td width=200 nowrap>
+
+<table width=200 cellspacing=0 cellpadding=0 border=0>
+<tr>
+<td width=200 height=150 background=../pics/jx_flea_200x150.jpg nowrap><img src=../pics/foreground200x150.gif width=200 height=150></td>
+</tr>
+</table>
+
+</td>
+<td width=10 nowrap><img src=../pics/clear.gif width=10 height=1></td>
+<td width="100%" valign=top class=black><font class=b>Flea Circus</font><br>Help your flea buddies get past traps and spiders!<br><a href="http://www.jagex.com/real_fleas.html" target="gameframe" class=b>Play Now!</a><br><font class=s>Load Time: 13 seconds on 56K modem</font></td>
+<td rowspan=2 width=55 nowrap><img src=../pics/clear.gif width=55 height=1></td>
+</tr>
+<tr>
+<td colspan=3 class=black><br><p><font class=b>How to play</font><br><font class=black>
+- Use the 3 block shapes to help guide your fleas from the entrance to the exit.<br>
+- To place a block on the map, first click on the block you would like to place at the bottom of the screen, then click on the map where you would like to add the block.<br>
+- Each level has a password to save you replaying levels you have already won. <br><br>
+
+
+
+
+
+</td>
+</tr>
+</table>
+
+</body>
+
+</html>
+

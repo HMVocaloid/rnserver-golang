@@ -1,0 +1,55 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	/* IE */
+	TD { font-family:arial,helvetica,sans-serif; font-size:13px }
+	.b { font-family:arial,helvetica,sans-serif; font-size:13px }
+	.v { font-family:verdana,arial,helvetica,sans-serif; font-size:13px }  
+	.w { font-family:arial,helvetica,sans-serif; font-size:13px; color:white }
+	
+	
+	.sw { font-family:verdana,arial,helvetica,sans-serif; font-size:10px; color:white }
+	.s { font-family:verdana,arial,helvetica,sans-serif; font-size:10px }  
+	.ss { font-family:arial,helvetica,sans-serif; font-size:8px }
+	.s2 { font-family:verdana,arial,helvetica,sans-serif; font-size:10px; line-height: 14px}
+	.sw2 { font-family:verdana,arial,helvetica,sans-serif; font-size:10px; line-height: 14px; color:white}
+	.t5 { font-family:arial,helvetica,sans-serif; font-size:5px; line-height: 5px}
+	.t8 { font-family:arial,helvetica,sans-serif; font-size:8px; line-height: 8px}
+	
+	.t25 { font-family:arial,helvetica,sans-serif; font-size:25px; line-height: 25px; color:white} 
+	.lb { font-family:arial,helvetica,sans-serif; font-size:18px }
+	.lg { font-family:arial,helvetica,sans-serif; font-size:20px }
+	.xlb { font-family:arial,helvetica,sans-serif; font-size:24px }
+	.nd { font-family:arial,helvetica,sans-serif; font-size:13px; text-decoration:none; }
+	.nds { font-family:verdana,arial,helvetica,sans-serif; font-size:10px; text-decoration:none; }
+	.ttd { font-family:arial,helvetica,sans-serif; font-size:13px; text-decoration:none; }
+	.ttd:hover { font-family:arial,helvetica,sans-serif; font-size:13px; text-decoration:underline; }
+	.wh:hover { font-family:arial,helvetica,sans-serif; font-size:13px; color:efefef; text-decoration:none; }
+	.ttds { font-family:verdana,arial,helvetica,sans-serif; font-size:10px; text-decoration:none; }
+	.ttds:hover { font-family:verdana,arial,helvetica,sans-serif; font-size:10px; text-decoration:underline; }
+	.swh:hover { font-family:arial,helvetica,sans-serif; font-size:10px; color:000000; text-decoration:none; }
+
+
+
+/* common */
+.t2 { font-family:arial,helvetica,sans-serif; font-size:2px; line-height: 2px}
+.lbuf5 { margin-left:5px }
+.lbuf10 { margin-left:10px }
+.lrbuf5 { margin-left:5px;  margin-right:5px; }
+.lrbuf10 { margin-left:10px; margin-right:10px; }
+

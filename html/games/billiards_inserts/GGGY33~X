@@ -1,0 +1,173 @@
+<html>
+
+
+<head>
+
+<LINK REL=STYLESHEET TYPE="text/css" HREF="/css/netscape.css">
+
+<script language="Javascript">
+function bringTop() {
+focus();
+}
+
+function startTop() {
+jumptime = setTimeout("bringTop()",4000);
+} 
+</script>
+
+<script language="Javascript">
+
+
+function ups(){
+window.open('http://www.real.com/R/RC.05072002-ei-infe.ups.img..R/realguide.real.com/games/?s=game_download&sub=infest');
+focus();
+
+
+}
+
+</script>
+
+</head>
+<body bgcolor="#CCECFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="startTop();">
+<table cellpadding=0 cellspacing=0 border=0>
+<tr>
+<td colspan=5><img src=../pics/clear.gif width=1 height=20></td>
+</tr>
+<tr>
+<td rowspan=2 width=55 nowrap><img src=../pics/clear.gif width=55 height=1></td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- elmer interactive begins here -->
+
+
+
+<!-- elmer interactive ends here -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<td valign=top width=200 nowrap>
+
+<table width=200 cellspacing=0 cellpadding=0 border=0>
+<tr>
+<td width=200 height=150 background=../pics/ei_infest_200x150.jpg nowrap><img src=../pics/foreground200x150.gif width=200 height=150></td>
+</tr>
+</table>
+
+</td>
+<td width=10 nowrap><img src=../pics/clear.gif width=10 height=1></td>
+<td width="100%" valign=top class=black><font class=b>Infest</font><br>Hold off the invading alien hordes, save the space station, and take the offensive in this nerve-wracking real-time strategy game!<br><br><a href="http://www.elmerinteractive.com/rc4.9/real.html" target="gameframe" class=b>Play Now!</a><br><font class=s>82 seconds on 56K modem</font><br><br>
+<a href="http://realguide.real.com/games/?s=game_download&sub=infest" target="_blank" class=b>Click here to try the downloadable version - free!</a><br>
+- The ultimate Infestation!<br>
+- Play off-line with no delays!<br>
+- Beautiful full screen graphics<br>
+- Unlock new game modes as you progress<br></td>
+<td rowspan=2 width=55 nowrap><img src=../pics/clear.gif width=55 height=1></td>
+</tr>
+<tr>
+<td colspan=3 class=black><br><p><font class=b>How to play</font><br><font class=black>Move, rotate and place the pieces of your base to make additions to the space station - watch out, though! The swarms of aliens aren't going to let you take over without a fight! Plug the holes they make in your base before it's too late!   Try out the tutorial before you jump in and you will have a much better chance of repelling the invasion...or should I say, infestation!<br><br>
+
+
+
+
+
+
+</td>
+</tr>
+</table>
+
+</body>
+
+</html>
+

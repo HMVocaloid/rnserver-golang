@@ -1,0 +1,44 @@
+
+
+
+
+
+
+
+	
+	
+		You don't have the RPEnvironment cookie yet...<br>
+
+		<form>
+			<input type=submit value="Set RPEnvironment cookie as..."><br><br>
+
+			<input type=hidden name=todo value=set>
+			<input type=hidden name=qs value="20070818035828">
+
+			DURATION:<br />
+			<input type=radio name=type value=persis checked>Persistent&nbsp;&nbsp;&nbsp;
+			<input type=radio name=type value=session>Session
+			<br /><br />
+			ENVIRONMENT:<br />
+			<input type=radio name=env value="-test" checked>Test&nbsp;&nbsp;
+			<input type=radio name=env value="-int">Int&nbsp;&nbsp;
+			<input type=radio name=env value="-preview">Preview&nbsp;&nbsp;
+			<input type=radio name=env value="-stage">Staging&nbsp;&nbsp;
+			<input type=radio name=env value="">Production
+			<br /><br />
+			URL-TABLE:<br />
+			<table border=0 cellpadding=0 cellspacing=0>
+				<tr>
+					<td><input type=radio name=desttable value=r1p>RealOne Player&nbsp;&nbsp;&nbsp;</td>
+					<td><input type=radio name=desttable value=rp10>RealPlayer-10&nbsp;&nbsp;&nbsp;</td>
+					<td><input type=radio name=desttable value="" checked >Detect</td>
+				</tr>
+				<tr>
+					<td><font size=-1><em>home<strong>-test</strong>.real.com</em>, etc.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+					<td><font size=-1><em>realguide<strong>.test</strong>.real.com</em>, etc.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+					<td><font size=-1>(choose based on player version)</font></td>
+				</tr>
+			</table>
+		</form>
+	
+

@@ -1,0 +1,5 @@
+google.com, pub-2292478992983390, DIRECT, f08c47fec0942fa0
+google.com, pub-9848990166080757, DIRECT, f08c47fec0942fa0
+onetag.com, 798a6a6b795f890, DIRECT
+onetag.com, 798a6a6b795f890-OB, DIRECT
+Media.net, 8CU54TNNQ, DIRECT

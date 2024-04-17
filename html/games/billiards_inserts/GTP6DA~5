@@ -1,0 +1,172 @@
+<html>
+
+
+<head>
+
+<LINK REL=STYLESHEET TYPE="text/css" HREF="/css/netscape.css">
+
+<script language="Javascript">
+function bringTop() {
+focus();
+}
+
+function startTop() {
+jumptime = setTimeout("bringTop()",4000);
+} 
+</script>
+
+<script language="Javascript">
+
+
+function ups(){
+window.open('http://www.real.com/R/RC.05072002-sw-8bes.ups.img..R/realguide.real.com/games/?s=game_download&sub=collapse');
+focus();
+
+
+}
+
+</script>
+
+</head>
+<body bgcolor="#CCECFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="startTop();">
+<table cellpadding=0 cellspacing=0 border=0>
+<tr>
+<td colspan=5><img src=../pics/clear.gif width=1 height=20></td>
+</tr>
+<tr>
+<td rowspan=2 width=55 nowrap><img src=../pics/clear.gif width=55 height=1></td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- elmer interactive begins here -->
+
+
+
+<!-- elmer interactive ends here -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<td width=200 nowrap>
+
+<table width=200 cellspacing=0 cellpadding=0 border=0>
+<tr>
+<td width=200 height=150 background=../pics/sw_8ball_200x150.jpg nowrap><img src=../pics/foreground200x150.gif width=200 height=150></td>
+</tr>
+</table>
+
+</td>
+<td width=10 nowrap><img src=../pics/clear.gif width=10 height=1></td>
+<td width="100%" valign=top class=black><font class=b>8-Ball, de FlyOrDie</font><br>Un jugador deber entronerar las bolas lisas y el otro las rayadas. El jugador que entronere su grupo de bolas en primer lugar y, posteriormente, la bola 8 mediante un tiro legal, gana el juego.<br><br><a 
+href="http://www.flyordie.com/games/real/games.html?game=8Ball&room=844&lang=es" 
+target="_top" class=b>Jugar ahora</a><br><a href="#" 
+onClick="window.open('http://www.flyordie.com/games/help/billiard/en/how_to_play_pool.html','_blank','scrollbars=yes,left=630,top=20,width=250,height=650,noresize');" 
+class=b>C&oacute;mo jugar</a><br><a href="#" 
+onClick="window.open('http://www.flyordie.com/games/help/billiard/en/game_rules_Pool8.html','_blank','scrollbars=yes,left=630,top=20,width=250,height=650,noresize');" 
+class=b>Reglas del juego</a></td>
+<td rowspan=2 width=55 nowrap><img src=../pics/clear.gif width=55 
+height=1></td>
+</tr>
+<tr>
+<td colspan=3 class=black><br><p><font 
+class=b>Reglas</font><br> - El juego comienza cuando la bola blanca en mano se sit&uacute;a detr&aacute;s de la l&iacute;nea de cabecera. El tiro de apertura es legal cuando no se entronera ni la bola blanca ni la bola 8, y se entronera o se dirige a una banda una de las bolas numeradas.<br> - Si no se entronera ninguna bola numerada con el tiro de apertura, la mesa permanece abierta (a&uacute;n no se han decidido los grupos de bolas que deben entronerar los jugadores) y se pasa el turno al oponente.<br> - La elecci&oacute;n de un grupo se determina cuando un jugador entronera legalmente una bola en situaci&oacute;n de mesa abierta. Despu&eacute;s de asignar los grupos, el jugador tirador debe golpear primero una bola de su grupo y entronerar bolas de su grupo.<br> - Un jugador contin&uacute;a jugando hasta que deje de entronerar legalmente bolas de su grupo, en cuyo caso se pasa el turno al oponente. Cuando un jugador haya entronerado legalmente todas las bolas de su grupo deber&aacute; entronerar la bola 8 en cualquier tronera.<br> - Si un tiro es falta, el oponente puede situar la bola blanca en cualquier parte de la mesa. Son faltas las siguientes jugadas a) La bola blanca no golpea una bola del grupo del jugador en primer lugar. b) Se entronera la bola blanca. o c) No se dirige ninguna bola a la banda.<br> - Un jugador pierde cuando entronera la bola 8 y a&uacute;n quedan bolas de su grupo o si dicho tiro es falta.<br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</td>
+</tr>
+</table>
+
+</body>
+
+</html>
+

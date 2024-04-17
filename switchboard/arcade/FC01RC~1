@@ -1,0 +1,141 @@
+<html>
+<head>
+<title>Wheel of Fortune Online</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<script language="JavaScript" src="functionality.js"></script>
+
+<script language="JavaScript">
+// This code parses out ads on Web games play pages.  
+// Affiliates will implement code (&pread=0) on their links to remove pre game ad.
+
+// Parse querystring.
+function QueryString(key)
+{
+	var value = null;
+	for (var i=0;i<QueryString.keys.length;i++)
+	{
+		if (QueryString.keys[i]==key)
+		{
+			value = QueryString.values[i];
+			break;
+		}
+	}
+	return value;
+}
+
+QueryString.keys = new Array();
+QueryString.values = new Array();
+
+function QueryString_Parse()
+{
+	var query = window.location.search.substring(1);
+	var pairs = query.split("&");
+	
+	for (var i=0;i<pairs.length;i++)
+	{
+		var pos = pairs[i].indexOf('=');
+		if (pos >= 0)
+		{
+			var argname = pairs[i].substring(0,pos);
+			var value = pairs[i].substring(pos+1);
+			QueryString.keys[QueryString.keys.length] = argname;
+			QueryString.values[QueryString.values.length] = value;		
+		}
+	}
+}
+
+QueryString_Parse();
+
+// Positions layers when called.
+function gameloaded(gamename)
+{
+	if (document.layers) 
+	{
+		document.layers['game'].left = document.layers['interstitial'].left;
+		document.layers['interstitial'].visibility='hide';
+	}
+	else if (document.all)
+	{
+		document.all('game').style.left = document.all('interstitial').style.left;
+		document.all('interstitial').style.visibility='hidden';
+	}
+	else if (document.getElementById)
+	{
+		document.getElementById('game').style.left = document.getElementById('interstitial').style.left;
+		document.getElementById('interstitial').style.visibility='hidden';
+	}
+}
+
+// Calls gameloaded() conditionally.
+function pageloaded()
+{
+	var pread=1;
+
+	if (QueryString("pread") == "0")
+	{
+		gameloaded();
+	}
+	else
+	{
+		setTimeout("gameloaded('')", 10000);
+	}
+}
+</script>
+</head>
+
+<body bgcolor="#CCECFF" text="#336699" link="#990000" alink="#990000" vlink="#990000" topmargin="0" bottommargin="0" leftmargin="0" rightmargin="0" marginwidth="0" marginheight="0" onload="pageloaded();window.document.RootMovie.focus();">
+
+<div name="game" id="game" style="left: -620px; margin: 0px; width: 604px; position: absolute; top: 0px; height: 490px;">
+
+<!-- Game Content -->
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="600" height="450" id="RootMovie">
+	<param name="movie" value="PreRoot.swf">
+	<param name="FlashVars" value="BaseDir=wheeloffortune&ContentDir=Online">
+	<param name="menu" value="false">
+	<param name="quality" value="high">
+	<embed src="PreRoot.swf" FlashVars="BaseDir=wheeloffortune&ContentDir=Online" quality="high" menu="false" width="600" height="450" name="RootMovie" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer"></embed>
+</object>
+<!-- Game Content End -->
+
+</div>
+
+<!-- parse the ad content so it does not impress when the ad is not shown -->
+<div id="interstitial" name="interstitial" style="left: 0px; margin: 0px; width: 440px; position: absolute; top: 0px; height: 400px;">
+<script language="JavaScript">
+
+// Parse ad content in with JS.
+if (QueryString("pread") != "0") {
+document.write('<table cellpadding="0" cellspacing="0" border="0" width="440" height="350">');
+document.write('<tr><td align="center">');
+document.write('<p><font face="Arial, Helvetica" size="3">Loading Wheel of Fortune Online. Please wait...</font><br>');
+}
+
+// Parse ad content in with JS.
+if (QueryString("pread") != "0") {
+   var adlink_randomnumber=Math.floor(Math.random()*1000000000000);
+
+if (QueryString("pread") == "branded") {
+document.write('<nolayer>');
+document.write('<iframe src="http://ad.doubleclick.net/adi/_games.rs/hugebutton/sect=games;partner=branded;sz=300x250;ord='+adlink_randomnumber+'" width="300" height="250" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no">');
+document.write('<a href="http://ad.doubleclick.net/jump/_games.rs/hugebutton/abr=!ie;sect=games;partner=branded;sz=300x250;ord='+adlink_randomnumber+'"><img src="http://ad.doubleclick.net/ad/_games.rs/hugebutton/abr=!ie;partner=branded;sect=games;sz=300x250;ord='+adlink_randomnumber+'" width="300" height="250" alt=""></a>');
+document.write('</iframe></nolayer>');
+} else {
+document.write('<nolayer>');
+document.write('<iframe src="http://ad.doubleclick.net/adi/_games.rs/hugebutton/sect=games;sz=300x250;ord='+adlink_randomnumber+'" width="300" height="250" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no">');
+document.write('<a href="http://ad.doubleclick.net/jump/_games.rs/hugebutton/abr=!ie;sect=games;sz=300x250;ord='+adlink_randomnumber+'"><img src="http://ad.doubleclick.net/ad/_games.rs/hugebutton/abr=!ie;sect=games;sz=300x250;ord='+adlink_randomnumber+'" width="300" height="250" alt=""></a>');
+document.write('</iframe></nolayer>');
+}
+
+}
+
+// Parse ad content in with JS.
+if (QueryString("pread") != "0") {
+document.write('<br><font face="Arial, Helvetica" size="2">Keep the games free - visit our sponsors!');
+document.write('<br>(clicking will not interfere with your game)</font></p></td></tr></table>');
+}
+</script>
+</div>
+
+</body>
+</html>

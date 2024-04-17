@@ -1,0 +1,119 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+<head>
+
+
+
+<title>GameHouse - Candy Cruncher</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script language="JavaScript">
+	
+	// pop a windoid (Pictures)
+	function popWin(url, w, h, winname) {
+		var madURL = url;
+		var x, y, winStr;
+		
+		x=560; y=0;
+	
+		winStr = "height="+h+",width="+w+",screenX="+x+",left="+x+",screenY="+y+",top="+y+",channelmode=0,directories=0,fullscreen=0,location=0,menubar=0,resizable=1,scrollbars=1,status=0,toolbar=0";
+		
+		msgWindow = window.open(madURL, winname, winStr);
+		if (typeof (msgWindow.focus) != "undefined") 
+		{
+			msgWindow.focus();
+		}
+	}
+	// pop a windoid (Pictures)
+	function popWin2(url, w, h) {
+		var madURL = url;
+		var x, y, winStr;
+		
+		x=560; y=0;
+	
+		self.name="opener";
+		winStr = "height="+h+",width="+w+",screenX="+x+",left="+x+",screenY="+y+",top="+y+",channelmode=0,dependent=0,directories=0,fullscreen=0,location=0,menubar=0,resizable=0,scrollbars=0,status=0,toolbar=0";
+		
+		lilBaby = window.open(madURL, "_blank", winStr);
+	}
+	
+	function addCount()
+	{
+		document.pntapplet.addCount(1);
+	}
+
+	
+	function showPoints(points,msg)	{	document.pntapplet.showPoints(points,msg);}
+	
+	function gameloaded(gamename)
+	{
+		
+	}
+
+
+	function pageloaded()
+	{
+		//showPoints(100,"testing");
+		setTimeout("gameloaded('')", 10000);
+	}
+	
+	
+	</script>
+</head>
+<body bgcolor="#CCECFF" text="#336699" leftmargin="0" topmargin="0" marginwidth="0"
+marginheight="0" link="990000" vlink="990000" alink="990000" onload="pageloaded()">
+
+<TABLE width="552" border="0" cellspacing="0" cellpadding="0">
+<TR><TD HEIGHT="428">&nbsp;</TD></TR>
+<tr> <TD ALIGN="LEFT">
+    <APPLET name="pntapplet" id="pntapplet" code="housepoints.Points" WIDTH=1 HEIGHT=1
+    codebase="http://real.gamehouse.com/real/games/" archive="boom.zip" MAYSCRIPT>
+<PARAM name="CABBASE" value="boom.cab">
+<PARAM name="BGCOLOR" value="CCECFF">
+<PARAM name="TEXTCOLOR" value="0000CC">
+<PARAM name="PREFIX" value="House Points:">
+<PARAM name="URL" value="/servlets/real?cmd=end&session=60638046">
+    </APPLET></TD></TR></TABLE>
+
+
+
+
+<DIV name="game" ID="game" style="LEFT: 14px; WIDTH: 552px; POSITION: absolute; TOP: 0px; HEIGHT: 400px">
+<table border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr> 
+    <td align="middle"> 
+    <applet MAYSCRIPT name="candy"  
+alt="Gamehouse Candy Cruncher" code=gamehouse.SuperApplet.class  
+height=400 width=552 archive="candy.zip,boom.zip"
+codebase="http://real.gamehouse.com/real/games/" hspace="0" vspace="0" VIEWASTEXT>
+<PARAM NAME="cabinets" value="candy.cab,boom.cab">
+<PARAM NAME="CABBASE" value="candy.cab">
+<param name="datafile" value="candy.dat">
+<param name="casino" value="http://www.real.com/games/ads_casino/index.html?game=&desc=ingame">
+<param name="target" value="_blank">
+<param name="ADIMAGE" value="/real/images/loading_logo.gif">
+<param name="ADURL" value="http://www.gamehouse.com/">
+<PARAM name="BGCOLOR" value="FFCC00">
+<PARAM name="TEXTCOLOR" value="FFFFCC">
+<param name="SERVLET" value="/servlets/real">
+<param name="GAMECODE" value="candy"><PARAM name="canvas" value="candy.CandyCanvas"><PARAM name="buyurl" value="http://www.real.com/games/candycruncher/plus.html"></applet></td></tr></TABLE></DIV>
+<div id="bmenu" name="bmenu" style="LEFT: 14px; MARGIN: 0px; WIDTH: 552px; POSITION: absolute; TOP: 403px; HEIGHT: 25px">
+  <TABLE width="552" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr> 
+<TD WIDTH=200>&nbsp;</TD>
+    <td valign="top" align="right"><a href="javascript:popWin('rules/candy_rules.html', 230, 490, 'ghrules')"><img src="images/rules.gif" height="20" width="54" vspace="0" border="0" hspace="0"></a></td>
+  </tr>
+</TABLE>
+</DIV>
+</body>
+</html>

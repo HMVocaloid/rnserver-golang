@@ -1,0 +1,33 @@
+
+
+
+	
+
+
+
+	
+
+
+<html>
+<head>
+
+
+
+
+
+<title>RealArcade - Monkey Puzzle by Jagex</title>
+
+
+
+
+
+<LINK REL=STYLESHEET TYPE="text/css" HREF="/css/netscape.css">
+
+</head>
+<frameset rows="70,*,120" border="0" framespacing="0">
+<frame name="banner" src="banners.html?game=jx-monk&genre=puzzle" marginwidth="0" marginheight="0" scrolling="NO" frameborder="0" noresize>
+<frame name="gameframe" src="games.html?game=jx-monk&lang=" marginwidth="0" marginheight="0" scrolling="auto" frameborder="0" align=center   noresize>
+<frame name="reco" src="recommend.html?genre=puzzle&lang=&game=jx-monk" marginwidth="0" marginheight="0" scrolling="NO" frameborder="0"  noresize>
+</frameset>
+<body onload="window.focus()" ></body>
+</html>

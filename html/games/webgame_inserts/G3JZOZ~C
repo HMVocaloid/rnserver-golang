@@ -1,0 +1,35 @@
+
+	
+
+
+
+	
+
+
+
+	
+
+
+<html>
+<head>
+
+
+
+
+
+<title>RealArcade - Kansas by SoliTaire Network</title>
+
+
+
+
+
+<LINK REL=STYLESHEET TYPE="text/css" HREF="/css/netscape.css">
+
+</head>
+<frameset rows="70,*,120" border="0" framespacing="0">
+<frame name="banner" src="banners.html?game=sn-kans&genre=card" marginwidth="0" marginheight="0" scrolling="NO" frameborder="0" noresize>
+<frame name="gameframe" src="games.html?game=sn-kans&lang=de" marginwidth="0" marginheight="0" scrolling="auto" frameborder="0" align=center   noresize>
+<frame name="reco" src="recommend.html?genre=card&lang=de&game=sn-kans" marginwidth="0" marginheight="0" scrolling="NO" frameborder="0"  noresize>
+</frameset>
+<body onload="window.focus()" ></body>
+</html>

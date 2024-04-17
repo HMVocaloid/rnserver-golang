@@ -1,0 +1,33 @@
+
+
+
+	
+
+
+
+	
+
+
+<html>
+<head>
+
+
+
+
+
+<title>RealArcade - Subhunt by Atrativa Games</title>
+
+
+
+
+
+<LINK REL=STYLESHEET TYPE="text/css" HREF="/css/netscape.css">
+
+</head>
+<frameset rows="*,120" border="0" framespacing="0">
+
+<frame name="gameframe" src="games.html?game=at-subh&lang=" marginwidth="0" marginheight="0" scrolling="auto" frameborder="0" align=center   noresize>
+<frame name="reco" src="recommend.html?genre=action&lang=&game=at-subh" marginwidth="0" marginheight="0" scrolling="NO" frameborder="0"  noresize>
+</frameset>
+<body onload="window.focus()" ></body>
+</html>

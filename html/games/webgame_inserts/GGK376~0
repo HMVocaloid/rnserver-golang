@@ -1,0 +1,35 @@
+
+	
+
+
+
+	
+
+
+
+	
+
+
+<html>
+<head>
+
+
+
+
+
+<title>RealArcade - Slots by GameHouse</title>
+
+
+
+
+
+<LINK REL=STYLESHEET TYPE="text/css" HREF="/css/netscape.css">
+
+</head>
+<frameset rows="70,*,120" border="0" framespacing="0">
+<frame name="banner" src="banners.html?game=gh-slot&genre=casino-con" marginwidth="0" marginheight="0" scrolling="NO" frameborder="0" noresize>
+<frame name="gameframe" src="games.html?game=gh-slot&lang=fr" marginwidth="0" marginheight="0" scrolling="auto" frameborder="0" align=center   noresize>
+<frame name="reco" src="recommend.html?genre=casino-con&lang=fr&game=gh-slot" marginwidth="0" marginheight="0" scrolling="NO" frameborder="0"  noresize>
+</frameset>
+<body onload="window.focus()" ></body>
+</html>

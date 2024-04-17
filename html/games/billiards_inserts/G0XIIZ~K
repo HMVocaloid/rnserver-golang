@@ -1,0 +1,178 @@
+<html>
+
+
+<head>
+
+<LINK REL=STYLESHEET TYPE="text/css" HREF="/css/netscape.css">
+
+<script language="Javascript">
+function bringTop() {
+focus();
+}
+
+function startTop() {
+jumptime = setTimeout("bringTop()",4000);
+} 
+</script>
+
+<script language="Javascript">
+
+
+function ups(){
+window.open('http://www.real.com/R/RC.05072002-sw-9ba1.ups.img..R/realguide.real.com/games/?s=game_download&sub=collapse');
+focus();
+
+
+}
+
+</script>
+
+</head>
+<body bgcolor="#CCECFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="startTop();">
+<table cellpadding=0 cellspacing=0 border=0>
+<tr>
+<td colspan=5><img src=../pics/clear.gif width=1 height=20></td>
+</tr>
+<tr>
+<td rowspan=2 width=55 nowrap><img src=../pics/clear.gif width=55 height=1></td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- elmer interactive begins here -->
+
+
+
+<!-- elmer interactive ends here -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<td width=200 nowrap>
+
+<table width=200 cellspacing=0 cellpadding=0 border=0>
+<tr>
+<td width=200 height=150 background=../pics/sw_9ball_200x150.jpg nowrap><img src=../pics/foreground200x150.gif width=200 height=150></td>
+</tr>
+</table>
+
+</td>
+<td width=10 nowrap><img src=../pics/clear.gif width=10 height=1></td>
+<td width="100%" valign=top class=black><font class=b>9-Ball by FlyOrDie</font><br>The aim is to pocket the 9-ball with a legal shot. On each shot the first ball the cue ball contacts must be the lowest-numbered ball on the table, but the balls need not be pocketed in order.<br><br><a href="http://www.flyordie.com/games/real/games.html?game=9Ball&room=940&lang=en" target="_top" class=b>Play Now!</a><br><font class=s>70 seconds on 56K modem</font><br><a href="#" onClick="window.open('http://www.flyordie.com/games/help/billiard/en/how_to_play_pool.html','_blank','scrollbars=yes,left=630,top=20,width=250,height=650,noresize');" class=b>How To Play</a><br><a href="#" onClick="window.open('http://www.flyordie.com/games/help/billiard/en/game_rules_Pool9.html','_blank','scrollbars=yes,left=630,top=20,width=250,height=650,noresize');" class=b>Game Rules</a></td>
+<td rowspan=2 width=55 nowrap><img src=../pics/clear.gif width=55 height=1></td>
+</tr>
+<tr>
+<td colspan=3 class=black><br><p><font class=b>How to play</font><br>
+<font class=b>To aim:</font><br>Click "Aim" graphic on menu bar.<br>Press and hold left mouse button, then move mouse to aim.<br>
+<font class=b>To shoot:</font><br>1. Press and hold right mouse button.<br>2. Drag mouse down to draw the cue back.<br>3. Drag mouse up to shoot, the faster you drag, the harder the ball is hit.<br>
+<font class=b>Rules</font><br><font class=black>
+The object balls are racked in a diamond shape, with the one ball at the top of the diamond and on the foot spot, the 9-ball in the center of the diamond, and the other balls in random order.  The game begins with the cue ball in hand behind the head string.<br>
+A player is entitled to continue shooting until he fails to legally pocket a ball. It is no foul if he fails but then the opposing player is next.  If the 9-ball is pocketed by a foul shot then the 9-ball is respotted.<br>
+<font class=b>Fouls:</font><br>
+- Bad hit. If the first object ball contacted by the cue ball is not the lowest-numbered ball on the table.<br>
+- No rail. If no object ball is pocketed and neither the cue ball, nor any numbered ball hits the rail.<br>
+- The cue ball is pocketed.<br>
+- After a foul shot the incoming player has the cue ball in hand; he can place it anywhere on the table (not necessarily behind the head string).<br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</td>
+</tr>
+</table>
+
+</body>
+
+</html>
+

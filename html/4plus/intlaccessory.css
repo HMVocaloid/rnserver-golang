@@ -1,0 +1,151 @@
+.mainContentBody{
+	background-color: White;
+	font-family: Arial, Helvetica, sans-serif;
+	color: Black;
+}
+
+.rightHeader{
+	font-size: 20px;
+	font-weight: bold;
+	padding-bottom: 15px;
+	padding-left: 23px;
+}
+
+#rightMargin{
+	padding-left: 18px;
+}
+
+#rightMargin li{
+	font-size: 12px;
+	padding-bottom: 10px;
+	font-weight: bold;
+}
+
+#rightMargin ul{
+	padding-left: 10px;
+	margin-left: 10px;
+	padding-top: 0px;
+	margin-top: 0px;
+	list-style: url(http://images.real.com/pics/real/accessories/blackdot.gif);
+	vertical-align: absmiddle;
+}
+
+.right_logo{
+	text-align: right;
+}
+
+#logoColorBar1{
+	background-color: #1F4AA9;
+	height: 16px;
+}
+
+#logoColorBar2{
+	background-color: #B12D29;
+	height: 6px;
+}
+
+#logoColorBar3{
+	background-color: #1F4AA9;
+	height: 6px;
+}
+
+.rightSubHeader1{
+	font-size: 16px;
+	margin-bottom: 10px;
+	padding-left: 23px;
+	font-weight: bold;
+}
+
+.rightSubHeader2{
+	font-size: 12px;
+	margin-bottom: 15px;
+	padding-left: 23px;
+	font-weight: bold;
+}
+
+.right_padding{
+	padding-left: 12px;
+}
+
+.leftButton{
+	background-image: url(http://images.real.com/pics/real/accessories/left_button.jpg);
+	height: 36px;
+	width: 10px;
+}
+
+.middleButton{
+	background-image: url(http://images.real.com/pics/real/accessories/button_bg.jpg);
+	font-size: 18px;
+	font-weight: bold;
+	/*width: 250px;*/
+	background-repeat: repeat-x;
+	text-align: center;
+	color: black;
+}
+
+.rightButton{
+	background-image: url(http://images.real.com/pics/real/accessories/right_button_bg.jpg);
+	height: 36px;
+	width: 10px;
+}
+
+.priceStyle{
+	font-size: 12px;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 10px;
+	color: #747474;
+}
+
+a.downloadButton:link {
+	text-decoration: none;
+	color: black;
+}
+
+a.downloadButton:visited {
+	text-decoration: none;
+	color: black;
+}
+
+a.downloadButton:hover {
+	text-decoration: none;
+	color: black;
+}
+
+.systemRequirments{
+	padding-left: 36px;
+}
+
+#sysReqList ul{
+	padding-left: 10px;
+	margin-left: 10px;
+	padding-top: 0px;
+	margin-top: 0px;
+	list-style: url(http://images.real.com/pics/real/accessories/blackdot.gif);
+	vertical-align: absmiddle;
+}
+
+#sysReqList ul{
+	font-size: 11px;
+}
+
+.sysReqHeader{
+	font-size: 11px;
+	font-weight: bold;
+	padding-left: 4px;
+}
+
+.mainText{
+	padding-left: 25px;
+	padding-right: 30px;
+}
+
+.footerSmall{
+	font-size: 11px;
+}
+
+.t5 { font-family:arial,helvetica,sans-serif; font-size:5px; line-height: 5px}
+
+.englishOnly{
+	font-size: 11px;
+}

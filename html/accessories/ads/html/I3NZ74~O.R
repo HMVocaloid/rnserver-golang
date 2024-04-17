@@ -1,0 +1,630 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+
+	
+	
+	
+
+	
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+
+	
+	
+	
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+
+
+
+
+
+
+
+	
+	
+		
+
+
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+<html>
+<head>
+	<title>Real.com Internet Cleanup</title>
+	
+
+
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=ISO-8859-1"> <style> /* NS */ TD { font-family:arial,helvetica,sans-serif; font-size:14px } .rp10s { font-family:verdana,arial,helvetica,sans-serif; font-size:11px;} </style> <LINK REL=STYLESHEET TYPE="text/css" HREF="http://www.real.com/4plus/trinity_.css"> <script src="http://realguide.real.com/4plus/main_.js" language="JavaScript"></script>
+	
+</head>
+<body bgcolor=e5e5e5 marginheight=0 topmargin=0 link=003399 alink=003399 vlink=003399 text=000000>
+
+
+
+      <center>
+	      
+
+<table width=760 bgcolor=003399 cellpadding=0 border=0 cellspacing=0>
+	<tr>
+		<td height=1 bgcolor=ffffff><img width="1" src="http://images.real.com//pics/space.gif" height="1"></td>
+	</tr>
+	<tr>
+		<td bgcolor=003399 width=760 height=23><img width="1" src="http://images.real.com//pics/space.gif" height="1"></td>
+	</tr>
+
+</table>
+
+
+			  
+
+
+
+<table width=760 border=0 cellpadding=0 cellspacing=0 bgcolor=ffffff>	   
+	   <tr>
+	   <td width=20 nowrap><img width="20" src="http://images.real.com//pics/space.gif" height="31"></td>	   
+	   <td width=270 vspace=10 nowrap valign="top"><br><a href="/R/RC.030421internet_cleanup.bodymain.img..R/realguide.real.com/r/https_.html?url=order.real.com%2fpt%2forder.html%3fppath%3dcp3ppww123004a%26country%3dFR%26language%3dEN%26prdid%3dINTCLN%26src%3ddownloadr,rpchoice_0_3_1_0_0_1_0,realplayer_8020,sitemap,ZG.eu.idx,ZG.eu.rm.rm.760.rm_rp,ZG.eu.rm_entitlements_pf.rm_entitlements_pf.one.rm_entitlements_pf,ZG.eu.r,030421internet_cleanup" ><img height="249" align="absmiddle" src="http://images.real.com//pics/real/accessories/int_clnup_build_en.jpg" border="0" alt="" width="267"></a><br><br>
+
+		<table bgcolor=f0f5f9 border=0 cellspacing=0>
+			<tr>
+				<td bgcolor=b2cce5 class=s height=15 valign=middle><div class=lbuf10><b><font color=336699>SYSTEM REQUIREMENTS</font></b></div></td>
+			</tr>
+			<tr><td height=10 bgcolor=f0f5f9><img width="220" src="http://images.real.com//pics/space.gif" height="1"></td></tr>
+			<tr>
+				  <td align=left valign=top bgcolor=f0f5f9 class=s><div class=lrbuf5>Windows 98, Me, NT4SP6, 2000, or XP</div></td>
+			</tr>
+			<tr>
+				  <td align=left valign=top bgcolor=f0f5f9 class=s><div class=lrbuf5>30 MB available disk space</div></td>
+			</tr>
+			<tr>
+				  <td align=left valign=top bgcolor=f0f5f9 class=s><div class=lrbuf5>8 MB RAM, 16 MB for Windows NT/2000/XP</div></td>
+			</tr>
+			<tr>
+				  <td align=left valign=top bgcolor=f0f5f9 class=s><div class=lrbuf5>Internet Explorer 5.01 (or later), AOL 7.0 or 8.0, or MSN Browser</div></td>
+			</tr>
+		</table>
+		
+	   </td>
+	   <td colspan=1 nowrap valign=center align="center">
+	   				<table width=470 border=0 cellspacing=0 cellpadding=0>
+					<tr><td colspan=2 align=left><a href="/R/RC.030421internet_cleanup.bodymain.img..R/realguide.real.com/r/https_.html?url=order.real.com%2fpt%2forder.html%3fppath%3dcp3ppww123004a%26country%3dFR%26language%3dEN%26prdid%3dINTCLN%26src%3ddownloadr,rpchoice_0_3_1_0_0_1_0,realplayer_8020,sitemap,ZG.eu.idx,ZG.eu.rm.rm.760.rm_rp,ZG.eu.rm_entitlements_pf.rm_entitlements_pf.one.rm_entitlements_pf,ZG.eu.r,030421internet_cleanup" ><img width="297" alt="" src="http://images.real.com//pics/real/accessories/IC_logo_297_pixels.gif" height="140" border="0">
+	   </td></tr>
+
+					<tr><td width=20 nowrap><img width="20" src="http://images.real.com//pics/space.gif" height="10"></td>
+					    <td align=left valign=top><br><font><b>Remove tracking devices, spyware and Active X controls</b></font></td> 
+					</tr>
+					<tr>
+					    <td colspan=2><img width="1" src="http://images.real.com//pics/space.gif" height="10"></td>
+					</tr>
+					<tr><td width=20 nowrap><img width="20" src="http://images.real.com//pics/space.gif" height="1"></td>
+					    <td bgcolor=FF6600><img width="1" src="http://images.real.com//pics/space.gif" height="1"></td>
+					</tr>
+					<tr>
+					    <td colspan=2><img width="1" src="http://images.real.com//pics/space.gif" height="10"></td>
+					</tr>
+
+					<tr><td width=20 nowrap><img width="20" src="http://images.real.com//pics/space.gif" height="10"></td>
+					    <td align=left valign=top><font><b>Clean up instant messenger, email and chat logs</b></font></td>
+					</tr>
+					<tr>
+					    <td colspan=2><img width="1" src="http://images.real.com//pics/space.gif" height="10"></td>
+					</tr>
+					
+					<tr><td width=20 nowrap><img width="20" src="http://images.real.com//pics/space.gif" height="1"></td>
+					    <td bgcolor=FF6600><img width="1" src="http://images.real.com//pics/space.gif" height="1"></td>
+					</tr>
+					<tr>
+					    <td colspan=2><img width="1" src="http://images.real.com//pics/space.gif" height="10"></td>
+					</tr>
+
+					<tr><td width=20 nowrap><img width="20" src="http://images.real.com//pics/space.gif" height="10"></td>
+					    <td align=left valign=top><font><b>Clear recent documents lists, cookies, cache and history </b></font></td>
+					</tr>
+
+					<tr>
+					    <td colspan=2><img width="1" src="http://images.real.com//pics/space.gif" height="10"></td>
+					</tr>
+					<tr><td width=20 nowrap><img width="20" src="http://images.real.com//pics/space.gif" height="1"></td>
+					    <td bgcolor=FF6600><img width="1" src="http://images.real.com//pics/space.gif" height="1"></td>
+					</tr>
+					<tr>
+					    <td colspan=2><img width="1" src="http://images.real.com//pics/space.gif" height="10"></td>
+					</tr>
+
+					<tr><td width=20 nowrap><img width="20" src="http://images.real.com//pics/space.gif" height="10"></td>
+					    <td align=left valign=top><font><b>Set up AutoClean on browser exit and auto email cleaner</b></font></td>
+					</tr>
+					
+					<tr>
+					    <td colspan=2><img width="1" src="http://images.real.com//pics/space.gif" height="10"></td>
+					</tr>
+					<tr><td width=20 nowrap><img width="20" src="http://images.real.com//pics/space.gif" height="1"></td>
+					    <td bgcolor=FF6600><img width="1" src="http://images.real.com//pics/space.gif" height="1"></td>
+					</tr>
+					<tr>
+					    <td colspan=2><img width="1" src="http://images.real.com//pics/space.gif" height="10"></td>
+					</tr>
+
+					<tr><td width=20 nowrap><img width="20" src="http://images.real.com//pics/space.gif" height="10"></td>
+					    <td align=left valign=top><font><b>Block web bugs, pop-ups and banner ads</b></font></td>
+					</tr>
+					
+
+					<tr>
+					    <td colspan=2><img width="1" src="http://images.real.com//pics/space.gif" height="10"></td>
+					</tr>
+					<tr><td width=20 nowrap><img width="20" src="http://images.real.com//pics/space.gif" height="1"></td>
+					    <td bgcolor=FF6600><img width="1" src="http://images.real.com//pics/space.gif" height="1"></td>
+					</tr>
+					<tr>
+					    <td colspan=2><img width="1" src="http://images.real.com//pics/space.gif" height="5"></td>
+					</tr>
+
+					
+					
+					<tr>
+					    <td colspan=2><img width="1" src="http://images.real.com//pics/space.gif" height="20"></td>
+					</tr>
+					
+					<tr><td width=20 nowrap><img width="20" src="http://images.real.com//pics/space.gif" height="10"></td>
+					    <td align=left valign=top class=lb><a href="/R/RC.030421internet_cleanup.bodymain.img..R/realguide.real.com/r/https_.html?url=order.real.com%2fpt%2forder.html%3fppath%3dcp3ppww123004a%26country%3dFR%26language%3dEN%26prdid%3dINTCLN%26src%3ddownloadr,rpchoice_0_3_1_0_0_1_0,realplayer_8020,sitemap,ZG.eu.idx,ZG.eu.rm.rm.760.rm_rp,ZG.eu.rm_entitlements_pf.rm_entitlements_pf.one.rm_entitlements_pf,ZG.eu.r,030421internet_cleanup" >Download Now</td>
+					</tr>
+					<tr><td width=20 nowrap><img width="20" src="http://images.real.com//pics/space.gif" height="10"></td>
+					    <td align=left valign=top>19,99&#8364;</td>
+					</tr>
+					
+					<tr>
+					    <td colspan=2><img width="1" src="http://images.real.com//pics/space.gif" height="20"></td>
+					</tr>
+					<tr><td width=20 nowrap><img width="20" src="http://images.real.com//pics/space.gif" height="31"></td>
+					    <td align=left valign=top><b>Websites and people are spying on you.</b> Unfortunately, prying into your private life is easy. Spyware and web bugs creep into your computer. IE hidden references, recent files lists, and others expose your computer activities.</b></td>
+					</tr>
+					
+					<tr>
+					    <td colspan=2><img width="1" src="http://images.real.com//pics/space.gif" height="20"></td>
+					</tr>
+					<tr><td width=20 nowrap><img width="20" src="http://images.real.com//pics/space.gif" height="31"></td>
+					    <td align=left valign=top><b>Protect your Internet Privacy with Internet Cleanup.</b> <p>Internet Cleanup gets rid of all those privacy-risking files and tracking devices and puts the fun back into web surfing with ad blocking features.</p> <p>Each time you start Internet Cleanup, it tells you exactly what's on your PC. The Statistics Report tells you about spyware that's present, number of unwanted cookies and history files, cache size, Active X controls, recent list entries, and more!</p></b></td>
+					</tr>
+					
+					<tr>
+					    <td colspan=2><img width="1" src="http://images.real.com//pics/space.gif" height="20"></td>
+					</tr>
+					
+					<tr><td width=20 nowrap><img width="20" src="http://images.real.com//pics/space.gif" height="10"></td>
+					    <td align=left valign=top class=lb><a href="/R/RC.030421internet_cleanup.bodymain.img..R/realguide.real.com/r/https_.html?url=order.real.com%2fpt%2forder.html%3fppath%3dcp3ppww123004a%26country%3dFR%26language%3dEN%26prdid%3dINTCLN%26src%3ddownloadr,rpchoice_0_3_1_0_0_1_0,realplayer_8020,sitemap,ZG.eu.idx,ZG.eu.rm.rm.760.rm_rp,ZG.eu.rm_entitlements_pf.rm_entitlements_pf.one.rm_entitlements_pf,ZG.eu.r,030421internet_cleanup" >Download Now</td>
+					</tr>
+					<tr><td width=20 nowrap><img width="20" src="http://images.real.com//pics/space.gif" height="10"></td>
+					    <td align=left valign=top>19,99&#8364;</td>
+					</tr>
+					
+					<tr>
+					    <td colspan=2><img width="1" src="http://images.real.com//pics/space.gif" height="10"></td>
+					</tr>
+				</table>
+			</td>
+	   </tr>
+	   
+</table>
+</a></a></a>
+	      
+	
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+	
+
+
+
+
+<table width=760 bgcolor=003399 cellpadding=0 border=0 cellspacing=0>
+	<tr>
+		<td colspan=2 height=1 bgcolor=ffffff><img width="1" src="http://images.real.com//pics/space.gif" height="1"></td>
+	</tr>
+	<tr>
+		<td bgcolor=003399 width=760 height=23><img width="1" src="http://images.real.com//pics/space.gif" height="1"></td>
+	</tr>
+	<tr>
+		<td colspan=2 bgcolor=ffffff align=center valign=middle class=s>
+			<br class=t5>
+			<a href="/R/RC.030421internet_cleanup.botnav.txt..R/www.realnetworks.com/company/privacy/?src=downloadr,rpchoice_0_3_1_0_0_1_0,realplayer_8020,sitemap,ZG.eu.idx,ZG.eu.rm.rm.760.rm_rp,ZG.eu.rm_entitlements_pf.rm_entitlements_pf.one.rm_entitlements_pf,ZG.eu.r,030421internet_cleanup" >RealNetworks Privacy Policy</a><br>
+			<a href="/R/RC.030421internet_cleanup.botnav.txt..R/www.realnetworks.com/company/legal.html?src=downloadr,rpchoice_0_3_1_0_0_1_0,realplayer_8020,sitemap,ZG.eu.idx,ZG.eu.rm.rm.760.rm_rp,ZG.eu.rm_entitlements_pf.rm_entitlements_pf.one.rm_entitlements_pf,ZG.eu.r,030421internet_cleanup" >Legal Notice/Terms of Use</a><br>
+			<br class=t5>
+		</td>	
+	</tr>
+
+	
+</table>
+
+
+      </center>
+</body>
+
+</html>
+
+
+

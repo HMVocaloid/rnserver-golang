@@ -1,0 +1,25 @@
+<html>
+<head>
+<title>RealArcade - Web Games</title>
+<script language="Javascript">
+
+
+function MM_checkPlugin(plgIn, theURL, altURL, autoGo) { //v3.0
+  var ok=false; document.MM_returnValue = false;
+  with (navigator) if (appName.indexOf('Microsoft')==-1) ok=(plugins && plugins[plgIn]);
+  else if (appVersion.indexOf('3.1')==-1) { //not Netscape or Win3.1
+    if (plgIn.indexOf("Flash")!=-1 && window.MM_flash!=null) ok=window.MM_flash;
+    else if (plgIn.indexOf("Director")!=-1 && window.MM_dir!=null) ok=window.MM_dir;
+    else ok=autoGo; }
+  if (!ok) theURL=altURL + '?game=gv-grum' + '&genre=card' + '&lang=' + '&plugin=no'; 
+	if (theURL) window.location=theURL + '?game=gv-grum' + '&genre=card' + '&lang=' + '&plugin=yes';
+} 
+
+
+
+</script>
+
+</head>
+<body onLoad="MM_checkPlugin('Shockwave for Director','game_template.html','game_template.html',true);return document.MM_returnValue">
+</body>
+</html>

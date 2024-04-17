@@ -1,0 +1,171 @@
+<html>
+
+
+<head>
+
+<LINK REL=STYLESHEET TYPE="text/css" HREF="/css/netscape.css">
+
+<script language="Javascript">
+function bringTop() {
+focus();
+}
+
+function startTop() {
+jumptime = setTimeout("bringTop()",4000);
+} 
+</script>
+
+<script language="Javascript">
+
+
+function ups(){
+window.open('http://www.real.com/R/RC.05072002-sw-tanx.ups.img..R/realguide.real.com/games/?s=game_download&sub=collapse');
+focus();
+
+
+}
+
+</script>
+
+</head>
+<body bgcolor="#CCECFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="startTop();">
+<table cellpadding=0 cellspacing=0 border=0>
+<tr>
+<td colspan=5><img src=../pics/clear.gif width=1 height=20></td>
+</tr>
+<tr>
+<td rowspan=2 width=55 nowrap><img src=../pics/clear.gif width=55 height=1></td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- elmer interactive begins here -->
+
+
+
+<!-- elmer interactive ends here -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<td width=200 nowrap>
+
+<table width=200 cellspacing=0 cellpadding=0 border=0>
+<tr>
+<td width=200 height=150 background=../pics/sw_tanx_200x150.jpg nowrap><img src=../pics/foreground200x150.gif width=200 height=150></td>
+</tr>
+</table>
+
+</td>
+<td width=10 nowrap><img src=../pics/clear.gif width=10 height=1></td>
+<td width="100%" valign=top class=black><font class=b>Tanx by FlyOrDie</font><br>Command your own tank in this multiplayer shootout.   Combines Competitive and addictive gameplay with great sounds and graphics for outstanding new game.<br><br><a href="http://www.flyordie.com/games/real/games.html?game=Tanx&room=740&lang=en" target="_top" class=b>Play Now!</a><br><font class=s>152 seconds on 56K modem</font></td>
+<td rowspan=2 width=55 nowrap><img src=../pics/clear.gif width=55 height=1></td>
+</tr>
+<tr>
+<td colspan=3 class=black><br><p><font class=b>How to play</font><br>
+Your mission is to destroy as many enemies as possible in classic death match mode. You have variety weapons to accomplish your task. Make use of the objects in the field to reload or to gain additional capabilities. You are dead when all your energy is gone.<br><br>
+<a href="#howto" onClick="window.open('http://www.flyordie.com/games/help/tanx/en/contents.html','_new','scrollbars=no,left=630,top=20,width=300,height=600,noresize');">REFERENCE MANUAL</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</td>
+</tr>
+</table>
+
+</body>
+
+</html>
+

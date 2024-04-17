@@ -1,0 +1,116 @@
+
+<!doctype html public "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<object id="RNGCIEPLUG" width="0" height="0" classid="CLSID:A5DC33CE-214B-4c26-8596-8A45456C9EB8"></object>
+<script language = "JavaScript">
+var nRNGCVersion;
+var sRNGCDistCode;
+function createArcadeVersionControl()
+{
+var control;
+try
+{
+control = new ActiveXObject('RNGCIECtl.RNGCIECtl.1');
+}
+catch ( e )
+{
+}
+return control;
+}
+function isRacInstalled()
+{
+var undefined;
+var arcadeVersionControl = createArcadeVersionControl();
+if ( undefined == arcadeVersionControl )
+{
+if(navigator.appName == "Netscape")
+{
+if ((navigator.userAgent.charAt(8)) >= ('3'))
+{
+var i=0;
+while (navigator.plugins[i])
+{
+//document.write( navigator.plugins[i].name + '<br><br>');
+if ( (navigator.plugins[i].name) == 'RealArcade NS Plugin'
+|| (navigator.plugins[i].name) == 'RealOne Arcade NS Plugin' )
+{
+return 1;
+}
+i++;
+}
+}
+}
+return 0;
+}
+nRNGCVersion = arcadeVersionControl.RealArcadeVersion;
+sRNGCDistCode = arcadeVersionControl.RealArcadeDistCode;
+if ( undefined == nRNGCVersion )
+{
+return 0;
+}
+return 1;
+}
+function getRacVersion()
+{
+var undef;
+return ((nRNGCVersion != undef) ? nRNGCVersion : 0);
+}
+function getRacDistCode()
+{
+var undef;
+return ((sRNGCDistCode != undef) ? sRNGCDistCode : "");
+}
+function setCookie(cookieName,cookieValue,nDays)
+{
+var today = new Date();
+var expire = new Date();
+expire.setTime(today.getTime() + 3600000*24*nDays);
+document.cookie = cookieName+"="+escape(cookieValue)+ ";expires="+expire.toGMTString();
+}
+function getCookie(cookieName)
+{
+var theCookie=""+document.cookie;
+var ind=theCookie.indexOf(cookieName);
+if (ind==-1 || cookieName=="") return "";
+var ind1=theCookie.indexOf(';',ind);
+if (ind1==-1) ind1=theCookie.length;
+return unescape(theCookie.substring(ind+cookieName.length+1,ind1));
+}
+function cookiesAreEnabled()
+{
+var expire = new Date();
+expire.setTime(expire.getTime() + 10000);
+document.cookie = "xxx=foo";
+var value = getCookie("xxx");
+return ( "foo" == value );
+}
+function doDetectionAndRedirect()
+{
+var racInstalled = isRacInstalled();
+setCookie( "games.racInstalled", racInstalled, 1 );
+var racVersion = getRacVersion();
+setCookie( "games.racVersion", racVersion, 1 );
+var racDistCode = getRacDistCode();
+setCookie( "games.racDistCode", racDistCode, 1 );
+if( cookiesAreEnabled() )
+{
+document.location="/realarcade?tps=&src=";
+}
+else
+{
+document.location="/realarcade?tps=&src=&rdo=true"
++ "&arcadeinstalled=" + racInstalled
++ "&racver=" + racVersion
++ "&racdist=" + racDistCode;
+}
+return true;
+}
+</script>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="REFRESH" content="0; URL=/realarcade?tps=&src=&rdo=true" />
+<title>RealArcade</title>
+</head>
+<body onload="return doDetectionAndRedirect();">
+</body>
+</html>

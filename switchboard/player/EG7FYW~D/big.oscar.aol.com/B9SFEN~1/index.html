@@ -1,0 +1,75 @@
+<html>
+<head>
+	<title>Mail-A-Friend</title>
+	<link href="http://i.realone.com/mailafriend/style/mail.css" rel="stylesheet" type="text/css">
+	<script>
+		function getLink(){
+			var fullUrl = document.location.href;
+			var linkUrl = fullUrl.replace(/^.*[\&\?]link=/,"");
+			linkUrl = linkUrl.replace(/\&.*$/,"");
+			return unescape( linkUrl );
+		}
+	</script>
+</head>
+<body>
+<center>
+<br class="v5" />
+<div id="header">
+	<table cellpadding="0" cellspacing="0" width="800">
+		<tr>
+			<th valign="middle" align="left">
+				&nbsp; &nbsp;<a href="http://home.real.com" target="newWind">Home</a>
+				&nbsp;|&nbsp;
+				<a href="http://www.real.com/realoneplayer.html?src=R1Guide" target="newWind">Download Player</a>
+				&nbsp;|&nbsp;
+				<a href="http://www.real.com/realoneplayer.html?src=R1Guide" target="newWind">Download Toolbar</a>
+			</th>
+			<td rowspan="2" width="101" align="left" valign="top"><img src="http://i.realone.com/mailafriend/images/logo_top-right.gif"></td>
+		</tr>
+		<tr>
+			<td><br class="v4" /></td>
+		</tr>
+	</table>
+</div>
+<br />
+<br />
+<div id="main">
+	<table width="800">
+		<tr>
+			<td width="50%" align="right"><img src="http://i.realone.com/mailafriend/images/launch_logo.gif"></td>
+			<td width="50%" align="left" class="heading">
+				<script>
+					document.write( "<a href=\"" + getLink() + "\" class=\"heading\">" );
+				</script>Click to start RealPlayer</a>
+				<br class="v10"/>
+				and play your media.
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" align="center" class="subheading">
+				<br class="v55"/>
+				Don&#39;t have RealPlayer? <a href="http://www.real.com" class="subheading">Download now</a>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" align="center">
+				<br class="v10"/>
+				Once you install the RealPlayer, return to your <br /> 
+				email to enjoy the media. View more exciting <br />
+				content by visiting <a href="http://guide.real.com">http://guide.real.com</a>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" align="center" class="footer">
+				<br class="v55"/>
+				* The lateset RealPlayer is available for Windows 98SE, Windows NT4.0 <br />
+				with Service Pack 6, Windows 2000 with Service Pack 2, or Windows XP, <br />
+				along with Internet Explorer 5.0 or later or Netscape 6.2 or later.
+			</td>
+		</tr>
+		
+	</table>
+</div>
+</center>
+</body>
+</html>
